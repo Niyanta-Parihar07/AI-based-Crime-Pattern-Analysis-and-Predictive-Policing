@@ -103,7 +103,7 @@ AI-Based-Crime-Pattern-Analysis/
 | Data Analysis           | Pandas, NumPy             |
 | Visualization           | Matplotlib, Seaborn       |
 | Machine Learning        | Scikit-learn              |
-| Development Environment | Jupyter Notebook, VS Code |
+| Development Environment | VS Code                   |
 
 ---
 
